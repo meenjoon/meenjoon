@@ -14,7 +14,7 @@
     <h3>
     차근차근 공부한 내용을 기록하는
       <a href="https://bj-turtle.tistory.com/">
-        BJ의 엉금엉금 개발이야기 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+        BJ의 엉금엉금 개발이야기  <center><img src="https://user-images.githubusercontent.com/88024665/192856366-df2b1f69-e983-4427-874a-861e66db62c2.png" width="80px" height="80px" /></center>
       </a>
     </h3>
   </em>
