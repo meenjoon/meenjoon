@@ -9,6 +9,13 @@
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp --> 
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
-<a href="https://bj-turtle.tistory.com/" target="_blank">Diary</a>
 
+  <em>
+    <h3>
+    차근차근 공부한 내용을 기록하는
+      <a href="https://bj-turtle.tistory.com/">
+        BJ의 엉금엉금 개발이야기 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+      </a>
+    </h3>
+  </em>
 
