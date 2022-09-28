@@ -10,12 +10,17 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-  <em>
+
+
+<div align="center">
+ <em>
     <h3>
     차근차근 공부한 내용을 기록하는
       <a href="https://bj-turtle.tistory.com/">
-        BJ의 엉금엉금 개발이야기  <center><img src="https://user-images.githubusercontent.com/88024665/192856366-df2b1f69-e983-4427-874a-861e66db62c2.png" width="80px" height="80px" /></center>
+           BJ의 엉금엉금 개발이야기 
       </a>
+      <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="250" />
     </h3>
   </em>
-
+ </div>
+ 
