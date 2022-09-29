@@ -15,12 +15,13 @@
 <div align="center">
  <em>
     <h3>
-    차근차근 공부한 내용을 기록하는
+    공부한 내용을 차근차근 정리한 
       <a href="https://bj-turtle.tistory.com/">
-           BJ의 엉금엉금 개발이야기 
+           BJ의 엉금엉금 개발 블로그&nbsp
       </a>
-      <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="250" />
+ <img src="https://user-images.githubusercontent.com/88024665/192935305-df6e3348-4e55-4fc6-a77b-66a83f17cd83.png"  width="45" height="35"/></a> &nbsp 
     </h3>
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="530" height="250" />
   </em>
  </div>
  
